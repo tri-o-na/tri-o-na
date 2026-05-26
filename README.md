@@ -1,5 +1,6 @@
 # 💫 About Me:
-currently a undergraduate year 2 student at Singapore Institute of Technology (SIT)<br>languages: Python, JavaScript, HTML, CSS, C, Kotlin, C++, Assembly, Rust, TypeScript, Bash, Dart, etc<br>databases: SQL, Firestore, SQLite, NoSQL, MongoDB, ClickHouse, AWS DynamoDB, AWS S3, etc<br>my portfolio link: https://tri-o-na.github.io/triona-portfolio
+I am currently a undergraduate year 2 student at Singapore Institute of Technology (SIT) x University of Glasgow (UofG)
+* my portfolio: [here](https://tri-o-na.github.io/triona-portfolio)
 
 
 ## 🌐 Socials:
